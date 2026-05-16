@@ -1,4 +1,5 @@
-# VR Bar Props
+# Unity / VR Ambidextrous Grabbable
+## VR Bar Props - Demo
 [![VR Bar Props](https://img.youtube.com/vi/f_gSnSFXmPM/0.jpg)](https://www.youtube.com/watch?v=f_gSnSFXmPM)
 ![](https://www.youtube.com/watch?v=f_gSnSFXmPM)
 
